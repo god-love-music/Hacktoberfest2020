@@ -45,6 +45,7 @@ fun main(){
 
     person_1.tall()
     person_1.mySex()
+    person_1.greet()
 
     println()
 
